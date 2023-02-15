@@ -1,0 +1,358 @@
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <style>
+   .pydocx-caps {text-transform:uppercase}.pydocx-center {text-align:center}.pydocx-comment {color:blue}.pydocx-delete {color:red;text-decoration:line-through}.pydocx-hidden {visibility:hidden}.pydocx-insert {color:green}.pydocx-left {text-align:left}.pydocx-list-style-type-cardinalText {list-style-type:decimal}.pydocx-list-style-type-decimal {list-style-type:decimal}.pydocx-list-style-type-decimalEnclosedCircle {list-style-type:decimal}.pydocx-list-style-type-decimalEnclosedFullstop {list-style-type:decimal}.pydocx-list-style-type-decimalEnclosedParen {list-style-type:decimal}.pydocx-list-style-type-decimalZero {list-style-type:decimal-leading-zero}.pydocx-list-style-type-lowerLetter {list-style-type:lower-alpha}.pydocx-list-style-type-lowerRoman {list-style-type:lower-roman}.pydocx-list-style-type-none {list-style-type:none}.pydocx-list-style-type-ordinalText {list-style-type:decimal}.pydocx-list-style-type-upperLetter {list-style-type:upper-alpha}.pydocx-list-style-type-upperRoman {list-style-type:upper-roman}.pydocx-right {text-align:right}.pydocx-small-caps {font-variant:small-caps}.pydocx-strike {text-decoration:line-through}.pydocx-tab {display:inline-block;width:4em}.pydocx-underline {text-decoration:underline}body {margin:0px auto;width:49.61em}
+  </style>
+ </head>
+ <body>
+  <p>
+   <span class="pydocx-left">
+    您好，
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    恭喜您，您的ACCA账户已通过审核，您现在已经是FIA学员。
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     <span class="pydocx-underline">
+      请您登陆到自己的账户查看信息是否正确(尤其是出生日期，姓名，性别)
+     </span>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     <span class="pydocx-underline">
+      信息错误、账户中存在任何未支付的账单均无法报考，如有问题请及时联系认证部
+     </span>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    您就可以尽快联系当地机考中心参加机考（机考需要提前一个月报名）。
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     （因为您是用FIA注册方式进行注册的，所以需要先通过FAB、FMA、FFA三门课。所以在选择考试科目时，请选择FAB、FMA、FFA（相对应的就是F1、F2、F3）。等通过FAB、FMA、FFA的考试后，您的身份会自动转换为ACCA。成功转换身份后，您才可以报名后续的考试，自动转换时间一般为1-2个月左右。）
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     <span class="pydocx-underline">
+      特别说明：
+     </span>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    1）FIA身份学员成功通过前三科后，可免费转为ACCA学员，并获得F1-3免试。
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    2）FIA身份学员成功通过前三科后，身份转换需要的时间不等（1周至2个月不等），切勿将时间算的很紧，以免出现身份无法及时转换，影响自身报考事宜。
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    3）若FIA前三科未全部通过，但实际资质已符合成为ACCA学员，若想先转换身份，需缴纳转换费；成功转换成ACCA后，相关科目可获得对应免试。（例如考过了FFA及对应免试了F3）
+   </span>
+  </p>
+  <p>
+   <span style="color:#0000FF">
+    友情提醒：
+   </span>
+  </p>
+  <p>
+   <span style="margin-left:1.50em">
+    <span style="color:#0000FF">
+     1.
+    </span>
+    <span style="color:#0000FF">
+     账户注册成功后，免考费，年费等账单生成后学员需要在一个月（30天）内完成缴纳，请定时查看跟进邮箱中的年费支付提醒邮件，并按时交纳年费，否则账户可能会有被冻结的危险；
+    </span>
+   </span>
+  </p>
+  <p>
+   <span style="margin-left:1.50em">
+    <span style="color:#0000FF">
+     2.
+    </span>
+    <span style="color:#0000FF">
+     如果账户有欠费，则报考时需要一同缴纳欠费；
+    </span>
+   </span>
+  </p>
+  <p>
+   <span style="margin-left:1.50em">
+    <span style="color:#0000FF">
+     3.
+    </span>
+    <span style="color:#0000FF">
+     如果学员有打印证书的需求，必须确保账户没有欠费。
+    </span>
+   </span>
+  </p>
+  <p>
+   为了您能更好的使用ACCA账户，请注意以下几点：
+  </p>
+  <p>
+   <span class="pydocx-left">
+    1.请牢记您的ACCA账号、密码和注册跟进邮箱
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    2.附件 为ACCA账户使用指南（缴费、报考、修改信息指南）
+   </span>
+  </p>
+  <p>
+   ACCA官网登录地址：
+   <a href="http://www.accaglobal.com/gb/en.html">
+    <span class="pydocx-underline">
+     http://www.accaglobal.com/gb/en.html
+    </span>
+   </a>
+  </p>
+  <p>
+   点击右上角的”My ACCA”进行登录
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     <strong>
+      登陆账号：5467939,
+     </strong>
+    </span>
+    <span style="color:#FF0000">
+     <strong>
+      密码：Gaodun123
+     </strong>
+    </span>
+    <span style="color:#FF0000">
+     <strong>
+      ,
+     </strong>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     <strong>
+      注册跟进邮箱：cuican1901@yinzhaowang.com，
+     </strong>
+    </span>
+    <span style="color:#FF0000">
+     <strong>
+      邮箱密码：Gaodun123
+     </strong>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     注册跟进邮箱登录链接：
+    </span>
+    <a href="http://mail.yinzhaowang.com/">
+     <span style="color:#164A84">
+      <span class="pydocx-underline">
+       http://mail.yinzhaowang.com/
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     （ACCA账号密码及注册邮箱可自行在账户中进行更改）
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     注意：请妥善保存您的注册邮箱和密码，ACCA官方的所有重要通知邮件都会通过该邮箱发送给您，请定时登录查看。
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#FF0000">
+     <span class="pydocx-underline">
+      报考问题：
+     </span>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span class="pydocx-underline">
+     ●
+    </span>
+    <span class="pydocx-underline">
+     F1-4为机考，可联系机考中心进行报考，无需在账户中操作（如有问题请联系学管老师协助）
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    ACCA机考中心：
+    <a href="http://www.accaglobal.com/uk/en/student/exam-entry-and-administration/computer-based-exams/on-demand-cbes/cbe-centre-list.html">
+     <span style="color:#0A3761">
+      <span class="pydocx-underline">
+       http://www.accaglobal.com/uk/en/student/exam-entry-and-administration/computer-based-exams/on-demand-cbes/cbe-centre-list.html
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span class="pydocx-underline">
+     ● F5及之后的分季考试均在账户中进行报名：
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    1： 报名成功后务必保留
+    <span style="color:#FF0000">
+     报考信息页面
+    </span>
+    的截图（以免官方系统问题造成您退考）；
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    2： 常规报名截至日期之前请再次检查您是否报考成功（
+    <span style="color:#92D050">
+     BOOKED
+    </span>
+    ）以及考点信息是否有更换（官方系统BUG可能会造成考点信息更改）；如报考页面未显示报考科目，请检查您的账单是否有
+    <span style="color:#FF0000">
+     <span class="pydocx-underline">
+      退款
+     </span>
+    </span>
+    （如有退款，请重新报考并用该余额进行支付考试费用）。
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    如有任何问题，请随时联系我们，谢谢。
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#909090">
+     <br/>
+    </span>
+    <span style="color:#909090">
+     <br/>
+    </span>
+    <span style="color:#909090">
+     <br/>
+    </span>
+    <span style="color:#909090">
+     <br/>
+    </span>
+    <span style="color:#909090">
+     ------------------
+    </span>
+   </span>
+  </p>
+  <p>
+   <b>
+    休息天为：周四，周天。周四周天若您有急事，请拨打电话021-31764790，在班认证老师将为您及时解决问题。
+   </b>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <img height="70px" src="data:image/png;base64,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" width="462px"/>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     <strong>
+      闫伟杰   Scott
+     </strong>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     <strong>
+      ACCA 国际认证专员
+     </strong>
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     联系电话：
+    </span>
+    021-31764790
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     邮箱Mail：
+    </span>
+    <a href="mailto:acca-rz02@gaodun.cn">
+     <span style="color:#164A84">
+      <span class="pydocx-underline">
+       acca-rz02@gaodun.cn
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     网址Web：
+    </span>
+    <a href="http://www.gaodun.cn/">
+     <span style="color:#003366">
+      <span class="pydocx-underline">
+       www.gaodun.cn
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     地址：上海市虹口区花园路171号A3幢高顿教育
+    </span>
+   </span>
+  </p>
+  <p>
+   <span class="pydocx-left">
+    <span style="color:#003366">
+     Add：Golden Education, Building A3, No 171, Huayuan Road, Hongkou District, Shanghai
+    </span>
+   </span>
+  </p>
+ </body>
+</html>
