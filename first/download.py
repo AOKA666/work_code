@@ -4,91 +4,87 @@ import xlwt
 import datetime
 
 class FM:
-    def __init__(self, username, password, teacher, token, ms, tool):
+    def __init__(self, username, password, ms, tool):
         self.username = username
         self.password = password
-        self.teacher = teacher
-        self.token = token
         self.ms = ms
         self.tool = tool
         
         
-    def get_info(self):
-        login_session = requests.Session()
+    def get_info(self):        
+        # 登录，主要获得access_token
+        login_data = {
+        # "GDSID": "Xgnnu-czWXl-zNL_ln7nYv8_nAog_m0lLfL1Vabc",
+        "appid": 210666,
+        "password": self.password,
+        "user": self.username,
+        }
+        url = 'https://apigateway.gaodun.com/api/v4/vigo/login'
+        
+        # 获取access token
+        login = requests.post(url, data=login_data).json()
+        user_id = login['result']['user_id']
+        access_token = login['accessToken']
+        
+        # 将 access_token 写入 headers
         headers = {
-        'referer': 'https://eds.gaodun.com/',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) \
-            Chrome/84.0.4147.105 Safari/537.36'
+        "Authentication": "Basic "+access_token,
+        "Content-Type": "application/json;charset=UTF-8",
+        "Host": "apigateway.gaodun.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
         }
-        kv = {
-        'userName': self.username,
-        'password': self.password,
-        'GDSID': 'R0tPWVZISEFvS1ZiWVdGZW1DdmZXRUVWR2NQVnZSa28=',
-        }
-        url = "https://ssm.gaodun.com/api/member_login/vLogin"
-        # 第一次爬取，Session()获得缓存Cookies等
-
-        r = login_session.get(url, params=kv, headers=headers)
-        result = str(r.content, 'utf-8')
-        result2 = json.loads(result)
-        # 获取token值
-        token = result2['data']['session']
-        print(token)
 
         # 获取日期
         today = datetime.date.today()
         before = today - datetime.timedelta(days=30)
         page = 1
-        search_url = 'https://ssm.gaodun.com/api/Authentication/index'
-        search_kv = {
-            'status': '2012959',
-            'project': '1000053',
-            'enterTime[]': (before, today),
-            'teacherID[]': self.teacher,
-            'status_stage': '100118200',
-            'access_token': token,
-            'pageSize': '30',
-            'p': page,
-            'CourseType': '1000053',
-        }
+        search_url = 'https://apigateway.gaodun.com/olaf/api/v1/auth/list'
+        data = {
+            "projectId": 1000053,
+            "statusStage": 100118200,
+            "status": 2012959,
+            "teacherIdList": [user_id],
+            "enterTimeStart": str(before),
+            "enterTimeEnd": str(today),
+            "studentName": "",
+            "pageNum": page,
+            "pageSize": 100
+            }
         # 按页码搜索
         ls = []
         while page:
             # 第二次爬取，获取所有学员信息
-            fmlist = login_session.get(search_url, params=search_kv, headers=headers)
+            # data 需要是json 格式，因为 contentType 是 json
+            fmlist = requests.post(search_url, data=json.dumps(data), headers=headers)
             if fmlist == '':
                 break
             fmdata = str(fmlist.content, encoding='utf-8')
             try:
-                json_loads_file = json.loads(fmdata)['data']['lists']
+                json_loads_file = json.loads(fmdata)['result']['list']
             except:
                 self.ms.text_print2.emit(self.tool.ui.output_1, "爬取失败，可能未正常登录")
                 self.ms.text_print2.emit(self.tool.ui.output_1, "请重试")
                 return ''
             for i in json_loads_file:
-                ls.append(i['member_id'])
+                ls.append(i['guid'])
             # 判断单页数量是否到达上限30    
-            if len(json_loads_file) == 30:  
+            if len(json_loads_file) == 100:  
                 # 超过的话页码加一，再搜索一次
                 page += 1
-                search_kv['p'] = page
+                data['pageNum'] = page
             # 没有超过就结束循环    
             else:                           
                 break
         if ls == '':
             return ''
-        # 第三次爬取，根据member_id搜索学员的姓名和邮箱
+        # 第三次爬取，根据 guid 搜索学员的姓名和邮箱
         lt = []
         for i in ls:
-            email_url = 'https://ssm.gaodun.com/api/student/studentPersonsalData'
-            email_kv = {
-                'access_token': token,
-                'member_id': i
-            }
-            emList = login_session.get(email_url, params=email_kv, headers=headers)
-            emData = str(emList.content, encoding='utf-8')
-            email = json.loads(emData)['data']['email']
-            name = json.loads(emData)['data']['real_name']
+            email_url = 'https://apigateway.gaodun.com/olaf/api/v1/member/guid/'
+
+            emList = requests.get(email_url+i, headers=headers).json()
+            name = emList['result']['realName']
+            email = emList['result']['email']
             lt.append([name, email])        # lt储存所有学员的姓名和邮箱
         # 打开一个表格写入数据
         wb = xlwt.Workbook()

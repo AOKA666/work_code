@@ -133,8 +133,7 @@ class Operation_1(RunThread):
             password = str(int(crm_password))
         except:
             password = crm_password
-        teacher = token.split('_')[1]
-        f = FM(username, password, teacher, token, ms, tool)
+        f = FM(username, password, ms, tool)
         f.get_info()
         ms.text_print.emit(tool.ui.output_1, "{:=^20}".format("导出信息完成"))
         ms.text_print.emit(tool.ui.output_1, "程序退出")
@@ -179,7 +178,7 @@ class Operation_3(RunThread):
             name = sheet.cell(i, 0).value
             email = sheet.cell(i,1).value
             result.append([name, email])
-        crm = CRM(username, password, n, result, token, ms, tool)
+        crm = CRM(username, password, n, result, ms, tool)
         crm.run()
         tool.ui.pushButton.setEnabled(True)
         self.trigger.emit()
@@ -256,7 +255,7 @@ class Operation_6(RunThread):
             regi_date = date2.strftime('%Y-%m-%d')
             result.append([name,mobile,email,shenfen,account,regi_email,dob,regi_addr,regi_date])
         from third.success_crm import WriteCRM
-        crm = WriteCRM(user, pw, n, result, tool, ms, token)       
+        crm = WriteCRM(user, pw, n, result, tool, ms)       
         crm.run()
         tool.ui.pushButton.setEnabled(True)
         self.trigger.emit()
@@ -271,7 +270,6 @@ if __name__ == '__main__':
     mail_subject = mail.cell(1,2).value
     crm_account = crm.cell(1,0).value
     crm_password = crm.cell(1,1).value
-    token = crm.cell(1,2).value
     
 
     ms = MySignals()

@@ -1,19 +1,4 @@
-﻿<html>
- <head>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="text/css" http-equiv="Content-Style-Type"/>
-  <meta content="Aspose.Words for .NET 15.1.0.0" name="generator"/>
-  <title>
-  </title>
-  <style type="text/css">
-   .video{
-	background-color:#ffffff; color:#164a84; font-family:微软雅黑; font-size:13.5pt; font-	style:normal; text-decoration:underline; text-transform:none
-	}
-   .video:hover{color:red;}
-  </style>
- </head>
- <body>
-  <div>
+<div></div>
    <p style="background-color:#ffffff; line-height:20.25pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:13.5pt; font-style:normal; text-transform:none">
      Hi 同学
@@ -21,12 +6,10 @@
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:13.5pt; font-style:normal; text-transform:none">
     </span>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:13.5pt; font-style:normal; text-transform:none">
-     您好，
-    </span>
-   </p>
-   <p style="background-color:#ffffff; line-height:15pt; margin:5pt 0pt 10pt">
+     您好，</span></p>
+   <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
-     这里是高顿财经ACCA认证支持中心，我是Scott 闫老师，后续将由我负责您的ACCA认证事宜。
+     这里是高顿财经ACCA认证支持中心，我是Scott闫老师，后续将由我负责您的ACCA认证事宜。
     </span>
    </p>
    <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
@@ -35,49 +18,19 @@
     </span>
    </p>
    <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-     此外，如果你的学校与官方有合作并且有
-    </span>
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-    </span>
-    <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-     特殊3位注册代码
-    </span>
-    <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-    </span>
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-     ，请将与
-    </span>
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-    </span>
-    <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-     官方合作的证明信 /加速计划证明信“Accelerate Letter/Conditional Certificate”（相关材料提供情况需你自行向学校或ACCA官方询问）
-    </span>
-    <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-    </span>
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-     一同以邮件附件的形式发送认证老师。
-    </span>
-	<span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-	（若未提供证明信，将以普通ACCA学员进行注册）
-	</span>
+    <span style="font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
+     此外，如果你的学校与官方有合作并且有</span><span style="color:#ff0000; font-family:微软雅黑; 
+                font-size:10pt; font-style:normal; font-weight:bold;">特殊3位注册代码</span><span style="font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">，请将与</span><span style="color:#ff0000; font-family:微软雅黑; font-size:10pt; 
+                font-style:normal; font-weight:bold;">官方合作的证明信 /加速计划证明信“Accelerate Letter/Conditional Certificate”（相关材料提供情况需你自行向学校或ACCA官方询问）</span><span style="font-family:微软雅黑; font-size:10pt; font-style:normal; 
+                font-weight:bold; text-transform:none">一同以邮件附件的形式发送认证老师。</span><span style="color:#ff0000; font-family:微软雅黑; font-size:10pt; 
+                font-style:normal; font-weight:bold;">（若未提供证明信，将以普通ACCA学员进行注册）</span>
    </p>
    <p style="background-color:#ffffff; line-height:20.25pt; margin:0pt 0pt 10pt">
-    <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:13.5pt; font-style:normal; font-weight:bold; text-transform:none">
-     ***请根据以下内容准备材料
-    </span>
-    <a href="https://streamja.com/PVgOE" style="color:#164a84" target="https://exmail.qq.com/cgi-bin/_blank">
-
-	<span style="background-color:#ffffff; color:#164a84; font-family:宋体; font-size:13.5pt; font-style:normal; font-weight:bold; text-decoration:underline; text-transform:none">
-(也可以点击此处查看注册材料指导视频)
-
-	</span>
-
-    </a>
-   </p>
+    <span style="background-color:#ffffff; color:#ff0000; font-family:宋体; font-size:13.5pt; font-style:normal; font-weight:bold; text-transform:none">
+     *</span><span style="color: rgb(255, 0, 0); font-family: 微软雅黑; font-size: 13.5pt; font-weight: bold;">请根据以下说明准备相应的注册材料 </span><span style="font-family: &quot;lucida Grande&quot;, Verdana;">&nbsp; &nbsp; &nbsp;</span></p>
    <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
-     1.ACCA官方的注册费为89英镑
+     1.ACCA官方的注册费为<b>89英镑</b>（在您准备好材料之前您无需支付，届时我会指导您支付）
     </span>
    </p>
    <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
@@ -87,14 +40,14 @@
    </p>
    <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:normal; text-transform:none">
-     3.根据您的情况，相对应注册成为以下ACCA 官方会员，注册资料准备如下：
+     3.根据您的情况，相对应注册成为以下ACCA学员，注册资料准备如下：
     </span>
    </p>
    <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; margin-left:0pt; width:553.4pt">
-    <tr style="height:36.5pt">
+    <tbody><tr style="height:36.5pt">
      <td style="background-color:#f79646; border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-left-color:#f79646; border-left-style:solid; border-left-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:4.9pt; padding-right:4.9pt; vertical-align:middle; width:507.6pt">
       <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; margin-left:13.9pt; width:504.3pt">
-       <tr style="height:36.35pt">
+       <tbody><tr style="height:36.35pt">
         <td style="border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-left-color:#f79646; border-left-style:solid; border-left-width:1pt; border-top-color:#f79646; border-top-style:solid; border-top-width:1pt; padding-left:4.9pt; padding-right:5.4pt; vertical-align:middle; width:92.6pt">
          <p style="line-height:18pt; margin:0pt; text-align:center">
           <span style="color:#ffffff; font-family:Arial; font-size:10pt; font-weight:bold">
@@ -125,16 +78,15 @@
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21pt; text-indent:-21pt">
           <span style="font-family:Wingdings; font-size:10pt; font-weight:bold">
+           
           </span>
           <span style="font-family:Wingdings; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
-           FIA
-          </span>
+          <font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: Calibri; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-weight: 700; font-style: normal;">FIA</font><span style="font-family:Calibri; font-size:10pt; font-weight:bold">身份&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
           <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
-           (大专在读或本科大一新生或无学历)
+           (</span><font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-weight: 400; font-style: normal;">无学历限制，无需学历材料</font><span style="font-family:微软雅黑; font-size:10pt">)
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt">
@@ -148,11 +100,9 @@
           <span style="color:#ff0000; font-family:Arial; font-size:10pt">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
-           此类身份会员，
+           此类身份学员，
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt;">
-           需考完
-          </span>
+          <font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-weight: 400; font-style: normal;">需考完</font>
           <span style="color:#ff0000; font-family:Arial; font-size:10pt">
            FBT、FMA、FFA
           </span>
@@ -167,12 +117,12 @@
         </td>
         <td style="background-color:#ffffff; border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:5.4pt; padding-right:4.9pt; vertical-align:middle; width:167.6pt">
          <p style="line-height:18pt; margin:0pt">
-          <span style="font-family:宋体; font-size:10pt">
+          <span style="font-family:微软雅黑; font-size:10pt">
            1.
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt">
+          <span style="font-family:宋体; font-size:10pt">
            身份证
           </span>
           <span style="font-family:Calibri; font-size:10pt">
@@ -182,7 +132,7 @@
           </span>
           <span style="font-family:Calibri; font-size:10pt">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt">
+          <span style="font-family:宋体; font-size:10pt">
            翻译件
           </span>
          </p>
@@ -192,7 +142,7 @@
           <span style="font-family:微软雅黑; font-size:10pt">
            （
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            护照
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -202,7 +152,7 @@
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            身份证
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -212,7 +162,7 @@
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            翻译件
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
@@ -288,30 +238,18 @@
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21pt; text-indent:-21pt">
           <span style="font-family:Wingdings; font-size:10pt; font-weight:bold">
-          </span>
-          <span style="font-family:Wingdings; font-size:10pt; font-weight:bold">
-          </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
-           在校大学生
-          </span>
-          <span style="font-family:微软雅黑; font-size:10pt">
-           （本科大二及以上）
-          </span>
+            </span><font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-weight: 700; font-style: normal;">ACCA身份</font><span style="text-indent: -21pt; font-family: 微软雅黑; font-size: 10pt; font-weight: bold;">&nbsp;</span><span style="text-indent: -21pt; font-size: 14px;"></span><span style="text-indent: -21pt; font-family: 微软雅黑; font-size: 10pt;">（</span><font editorwarp__="1" style="text-indent: -21pt; background-color: rgba(0, 0, 0, 0); display: inline; font-size: 13.3333px; font-family: 微软雅黑;">在校生，即本科大一或以上在校生）</font></p><font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-style: normal;">
+         <p style="font-weight: 400; line-height: 18pt; margin: 0pt; display: block; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-style: normal;">
+          
+          
          </p>
-         <p style="line-height:18pt; margin:0pt">
-          <span style="font-family:微软雅黑; font-size:10pt">
-          </span>
-         </p>
-         <p style="line-height:18pt; margin:0pt">
-          <span style="background-color:#ffff00; font-family:微软雅黑; font-size:10pt">
-           注：
-          </span>
+         <p style="line-height: 18pt; margin: 0pt; display: block; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgba(0, 0, 0, 0); font-style: normal;">
+          
+           <font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgb(255, 255, 0); font-style: normal;"><b>注</b></font><font editorwarp__="1" style="font-weight: 400; display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); text-decoration: none; background-color: rgb(255, 255, 0); font-style: normal;">：</font>最低要求</p></font><p style="line-height:18pt; margin:0pt">
           <span style="font-family:微软雅黑; font-size:10pt">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
-           高等院校在读，并已完成了大一整学年课程的学生
-          </span>
-         </p>
+           高等院校在读，全日制本科第一学年学生</span></p>
          <p style="line-height:18pt; margin:0pt">
           <span style="font-family:微软雅黑; font-size:10pt">
           </span>
@@ -319,6 +257,8 @@
         </td>
         <td style="background-color:#ffffff; border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:5.4pt; padding-right:4.9pt; vertical-align:middle; width:167.6pt">
          <p style="line-height:18pt; margin:0pt">
+          <span style="font-family:宋体; font-size:12pt">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:微软雅黑; font-size:10pt">
@@ -331,7 +271,7 @@
           <span style="font-family:微软雅黑; font-size:10pt">
            （
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            护照
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -341,7 +281,7 @@
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            身份证
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -351,7 +291,7 @@
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            翻译件
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -371,18 +311,30 @@
           <span style="background-color:#ffff00; color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
            注：
           </span>
-          <span style="color:#ff0000; font-family:微软雅黑; font-size:10pt; font-weight:bold">
-           a. 在读证明上必须包含“已完成一/二/三年学业 （XX has completed one/two/three year(s) study）”字样
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
+          </span>
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
+           a. 在读证明上必须包含“已完成零/一/二/三年学业 （XX has completed 0/one/two/three year(s) study）”字样
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
-          <span style="color:#ff0000; font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
+          </span>
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
+          </span>
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
+          </span>
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
            b. 需包含个人信息、专业、学校、学历层次（本科）、预计毕业时间、预计所获学位等信息
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="color:#ff0000; font-family:Arial; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt">
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:微软雅黑; font-size:10pt">
@@ -391,18 +343,28 @@
          </p>
          <p style="line-height:18pt; margin:0pt">
           <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
            （成绩单需提供过去全部完整的学年成绩）
           </span>
          </p>
         </td>
         <td style="background-color:#ffffff; border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:5.4pt; padding-right:4.9pt; vertical-align:middle; width:210.7pt">
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
-          </p>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
+          </span>
+         </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
-          </p>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
+          </span>
+         </p>
          <p style="line-height:18pt; margin:10pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            1.
+          </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            身份证
@@ -412,12 +374,18 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            2.
+          </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            身份证翻译件
@@ -427,30 +395,46 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            3.
           </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
+          </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            在读证明
           </span>
+          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          </span>
           <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
            +
+          </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            英文翻译件
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; text-indent:42pt">
+          <span style="font-family:Calibri; font-size:10.5pt">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            4.
+          </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            成绩单
@@ -460,32 +444,34 @@
           <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
            +
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
-           英文翻译件
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
-         </p>
+          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+           英文翻译件（大一无需提供）</span></p>
          <p style="line-height:18pt; margin:0pt">
+          <span style="font-family:Calibri; font-size:10.5pt">
+          </span>
          </p>
         </td>
        </tr>
        <tr style="height:36.5pt">
         <td style="border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-left-color:#f79646; border-left-style:solid; border-left-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:4.9pt; padding-right:4.9pt; vertical-align:middle; width:92.6pt">
          <p style="line-height:18pt; margin:0pt; text-align:center">
-          <span style="color:#ffffff; font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="color:#ffffff; font-family:Arial; font-size:10pt; font-weight:bold">
            身份类型
           </span>
          </p>
         </td>
         <td style="border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; padding-left:5.4pt; padding-right:5.4pt; vertical-align:middle; width:167.6pt">
          <p style="line-height:18pt; margin:0pt; text-align:center">
-          <span style="color:#ffffff; font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="color:#ffffff; font-family:Arial; font-size:10pt; font-weight:bold">
            注册所要求的资料
           </span>
          </p>
         </td>
         <td style="border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:5.4pt; padding-right:4.9pt; vertical-align:middle; width:210.7pt">
          <p style="line-height:18pt; margin:0pt; text-align:center">
-          <span style="color:#ffffff; font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="color:#ffffff; font-family:Arial; font-size:10pt; font-weight:bold">
            资料要求
           </span>
          </p>
@@ -495,13 +481,7 @@
         <td style="background-color:#ffffff; border-bottom-color:#f79646; border-bottom-style:solid; border-bottom-width:1pt; border-left-color:#f79646; border-left-style:solid; border-left-width:1pt; border-right-color:#f79646; border-right-style:solid; border-right-width:1pt; padding-left:4.9pt; padding-right:4.9pt; vertical-align:middle; width:92.6pt">
          <p style="line-height:18pt; margin:0pt; padding-left:21pt; text-indent:-21pt">
           <span style="font-family:Wingdings; font-size:10pt; font-weight:bold">
-          </span>
-          <span style="font-family:Wingdings; font-size:10pt; font-weight:bold">
-          </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
-           专科（及以上学历）非在校生
-          </span>
-         </p>
+            </span><span style="font-family: 微软雅黑; font-size: 13.3333px; font-weight: 700;">ACCA身份</span><span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">（</span><span style="font-size: 14px;">毕业生，即专科、本科或以上学历的毕业生）</span></p>
          <p style="line-height:18pt; margin:0pt">
           <span style="font-family:微软雅黑; font-size:10pt">
           </span>
@@ -509,6 +489,8 @@
          <p style="line-height:18pt; margin:0pt">
           <span style="background-color:#ffff00; font-family:微软雅黑; font-size:10pt">
            注：
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
            已是高等院校的毕业生，能提供相关的毕业证明
@@ -527,7 +509,7 @@
           <span style="font-family:微软雅黑; font-size:10pt">
            （
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            护照
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -537,7 +519,7 @@
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            身份证
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
@@ -547,7 +529,7 @@
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
           </span>
-          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            翻译件
           </span>
           <span style="font-family:微软雅黑; font-size:10pt">
@@ -564,6 +546,12 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt">
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
+          </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            （国外学历无毕业证，只有学位证）
           </span>
@@ -590,6 +578,14 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt">
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
+          <span style="font-family:微软雅黑; font-size:10pt">
+          </span>
           <span style="color:#ff0000; font-family:微软雅黑; font-size:10pt">
            以下情况需提交成绩单：
           </span>
@@ -610,6 +606,8 @@
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            1.
           </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
+          </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            身份证
           </span>
@@ -618,12 +616,18 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            2.
+          </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            身份证英文翻译件
@@ -633,12 +637,18 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
            3.
+          </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            毕业证
@@ -655,8 +665,12 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="font-family:宋体; font-size:10pt; font-weight:bold">
@@ -672,6 +686,8 @@
           <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
            +
           </span>
+          <span style="font-family:Calibri; font-size:10pt; font-weight:bold">
+          </span>
           <span style="font-family:微软雅黑; font-size:10pt; font-weight:bold">
            英文翻译件
           </span>
@@ -680,12 +696,18 @@
           </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:0pt; padding-left:21.25pt; text-indent:-21.25pt">
+          <span style="font-family:宋体; font-size:10pt; font-weight:bold">
+          </span>
          </p>
          <p style="line-height:18pt; margin:10pt; padding-left:21.25pt; text-indent:-21.25pt">
           <span style="color:#ff0000; font-family:宋体; font-size:10pt; font-weight:bold">
            5.
+          </span>
+          <span style="color:#ff0000; font-family:Calibri; font-size:10pt; font-weight:bold">
           </span>
           <span style="color:#ff0000; font-family:微软雅黑; font-size:10pt; font-weight:bold">
            成绩单
@@ -707,7 +729,7 @@
          </p>
         </td>
        </tr>
-      </table>
+      </tbody></table>
       <p style="line-height:18pt; margin:0pt">
        <span style="font-family:Arial; font-size:9pt">
        </span>
@@ -726,13 +748,13 @@
       </p>
      </td>
     </tr>
-   </table>
+   </tbody></table>
    <p style="background-color:#ffffff; line-height:15pt; margin:0pt 0pt 10pt">
     <span style="color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
     </span>
    </p>
    <p style="background-color:#ffffff; font-size:10pt; line-height:115%; margin:0pt">
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
+    <span style="background-color:#ffffff; font-family:宋体; font-size:10pt; font-style:normal; text-transform:none">
      注：
     </span>
    </p>
@@ -798,12 +820,7 @@
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
     </span>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
-     护照= 身份证 + 翻译件 （提供有效期内的护照，即可不提供身份证原件和翻译件）
-    </span>
-    <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
-    </span>
-    <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
-     FIA和ACCA
+     注册身份有 </span><span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none"></span><span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">FIA</span><font editorwarp__="1" style="display: inline; font-size: 13.3333px; font-family: 微软雅黑; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal;">和</font><span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">ACCA
     </span>
     <span style="background-color:#ffffff; color:#ff0000; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
     </span>
@@ -830,30 +847,30 @@
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
      以下是一家翻译公司的联系方式，仅供参考：
     </span>
-    <br/>
-    <br/>
+    <br>
+    <br>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
      公司名称：上海臻云翻译服务有限公司
     </span>
-    <br/>
+    <br>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
      联系人：吴晓
     </span>
-    <br/>
+    <br>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
      联系方式：18916110501
     </span>
-    <br/>
+    <br>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
      企业微信： 13918592251
     </span>
-    <br/>
+    <br>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
      E-mail：
     </span>
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
     </span>
-    <a href="mailto:vinson.wu@truelingo.cn" style="color:#164a84" target="https://exmail.qq.com/cgi-bin/_blank">
+    <a style="color:#164a84" target="https://exmail.qq.com/cgi-bin/_blank">
      <span style="background-color:#ffffff; color:#164a84; font-family:微软雅黑; font-size:10pt; font-style:normal; text-decoration:underline; text-transform:none">
       vinson.wu@truelingo.cn
      </span>
@@ -869,7 +886,7 @@
      请注意各阶段报名截止时间，
     </span>
     <span style="background-color:#ffffff; color:#ff00ff; font-family:微软雅黑; font-size:10pt; font-style:normal; text-transform:none">
-     在报考前与学管老师沟通确认具体的考试截止时间。请于报考截止时间前两个月将相关材料提交给认证部。(于每年5月8日之后注册将无需缴纳当年的年费，所以请确认想要报考的考试时间后再提交材料)
+     在报考前与学管老师沟通确认具体的考试截止时间。请于报考截止时间前两个月将相关材料提交给认证部。(于每年5月10日之后注册将无需缴纳当年的年费，所以请确认想要报考的考试时间后再提交材料)
     </span>
    </p>
    <p style="background-color:#ffffff; line-height:20.25pt; margin:5pt 0pt">
@@ -878,29 +895,22 @@
     </span>
    </p>
    <p style="background-color:#ffffff; font-size:10.5pt; line-height:115%; margin:0pt 0pt 10pt">
-    <br/>
+    <br>
     <span style="background-color:#ffffff; color:#909090; font-family:Verdana; font-size:9pt; font-style:normal; text-transform:none">
      ------------------
     </span>
    </p>
    <p style="background-color:#ffffff; font-size:10pt; line-height:115%; margin:0pt">
     <span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">
-     休息天为：周四，周天。周四周天若您有急事，请拨打电话021-31764790，在班认证老师将为您及时解决问题。
+     休息天为：周四，周日。若您有急事，请拨打电话</span><span style="font-family: 微软雅黑; font-size: 13.3333px; font-weight: 700;">021-31764790</span><span style="background-color:#ffffff; font-family:微软雅黑; font-size:10pt; font-style:normal; font-weight:bold; text-transform:none">，在班认证老师将为您及时解决问题。
     </span>
    </p>
    <p style="background-color:#ffffff; font-size:10.5pt; line-height:115%; margin:0pt">
-    <img alt="IMG_256" height="70" src="https://s1.ax1x.com/2020/10/18/0Xn6E9.png" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" width="462"/>
+    <img height="70" src="https://s1.ax1x.com/2020/10/18/0Xn6E9.png" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline" width="462" onerror="">
    </p>
    <p style="background-color:#ffffff; line-height:18pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; font-weight:bold; text-transform:none">
-     闫伟杰
-    </span>
-    <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; font-weight:bold; text-transform:none">
-    </span>
-    <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; font-weight:bold; text-transform:none">
-     Scott
-    </span>
-   </p>
+     闫伟杰 Scott</span></p>
    <p style="background-color:#ffffff; line-height:18pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; font-weight:bold; text-transform:none">
      ACCA 国际认证专员
@@ -913,18 +923,16 @@
     <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; text-transform:none">
     </span>
     <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; text-transform:none">
-     021-31764790
-    </span>
-   </p>
+     021-31764790</span></p>
    <p style="background-color:#ffffff; line-height:18pt; margin:0pt 0pt 10pt">
     <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; text-transform:none">
      邮箱Mail：
     </span>
     <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; text-transform:none">
     </span>
-    <a href="mailto:acca-rz02@gaodun.cn" style="color:#2e75b6" target="https://exmail.qq.com/cgi-bin/_blank">
+    <a style="color:#2e75b6" target="https://exmail.qq.com/cgi-bin/_blank">
      <span style="background-color:#ffffff; color:#2e75b6; font-family:微软雅黑; font-size:12pt; font-style:normal; text-decoration:underline; text-transform:none">
-      acca-rz02@gaodun.cn
+      acca-rz02@gaodun.com
      </span>
     </a>
    </p>
@@ -955,5 +963,5 @@
      Building A3, No 171, Huayuan Road, Hongkou District, Shanghai
     </span>
    </p>
- </body>
-</html>
+ 
+<!--<![endif]-->
